@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">TranCoolAuthModuleV1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="trancool">TranCool</string>
+    <string name="login_now">Login Now</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account_yet_sign_up">Don\'t have an account yet? Sign Up</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="title">Title</string>
+    <string name="viewall">VIEW ALL</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_account">Don\'t Have an Account?</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="name">Name</string>
+    <string name="phoneNo">PhoneNo</string>
+    <string name="regis">Registration</string>
+    <string name="alreadyhaveanaccountyet">Already have an account yet?</string>
+    <string name="login">Log In</string>
+
+    <!-- Error messages  -->
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="email_invalid">Invalid email format</string>
+    <string name="invalid_password">Password must be at least 5 characters</string>
+    <string name="please_enter_confirm_password">Confirm Password</string>
+    <string name="internet_connection">Internet connection not available</string>
+    <string name="loading">Loading..</string>
+    <string name="theme">Theme</string>
+    <string name="home">Sounds</string>
+    <string name="favoritess">Favorite</string>
+    <string name="resent">Recent Music</string>
+    <string name="resen">Recent</string>
+    <string name="profile">Profile</string>
+    <string name="please_enter_name">please enetr name</string>
+    <string name="please_enter_phone">Please enter phone no</string>
+    <string name="email_profile">Email </string>
+    <string name="name_profile">Name </string>
+    <string name="mostplay">Most Play</string>
+    <string name="music">Music</string>
+    <string name="album">Album</string>
+    <string name="own">Own Playlist</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="nothing">Nothing to Show !</string>
+    <string name="artist">Artist</string>
+
+    <string name="no_internet">No internet connection!</string>
+    <string name="how_was">How Was Your Experience..?</string>
+    <string name="no">No</string>
+    <string name="exit">Exit</string>
+    <string name="enable_push_noti">Enable Push Notification</string>
+
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="topplay">Top Play</string>
+    <string name="sleepplay">Sleep Stories</string>
+
+    <string name="journeys">Journeys</string>
+    <string name="more">More</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="forget_password">forget password?</string>
+    <string name="terms_of_conditions">By registering you accept the terms of conditions</string>
+</resources>

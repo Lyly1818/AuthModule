@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829182880771",
+    "project_id": "authmodule-f842a",
+    "storage_bucket": "authmodule-f842a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829182880771:android:4920402fd1d950b5017236",
+        "android_client_info": {
+          "package_name": "net.trancool.authmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829182880771-pom4vf98ro1n805iuvnsci9f73u46qf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZT5OD54d8BMDl-UV7uG1e0t66OmpgTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829182880771-pom4vf98ro1n805iuvnsci9f73u46qf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
